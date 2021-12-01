@@ -340,3 +340,15 @@ nav ul li a{
   color: white;
   padding: 1rem 2rem;
 }
+
+footer{
+  padding: 5rem 0 0 0;
+}
+
+footer .wrapper .copyright_text{
+  background: #333333;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 2rem 0;
+}
