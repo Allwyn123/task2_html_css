@@ -467,7 +467,7 @@ footer .wrapper .copyright_text{
   }
 }
 
-@media screen and (min-width: 425px) {
+@media screen and (min-width: 426px) {
   nav > a:last-child{
     display: none;
   }
