@@ -208,3 +208,11 @@ li {
   width: auto;
 }
 
+.logo_text{
+  font-size: 50px;
+  margin-top: 20px;
+  margin-left: 20px;
+  text-transform: uppercase;
+  color: white;
+  /* text-shadow: 0 3px 3px black; dlkjkj */
+}
