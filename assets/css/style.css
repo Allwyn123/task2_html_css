@@ -290,3 +290,22 @@ nav ul li a{
   font-size: 20px;
   text-align: center;
 }
+
+.gallery_nos{
+  display: flex;
+  /* #246599 */
+  justify-content: center;
+  padding: 3rem 0;
+}
+
+.gallery_nos li{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gray;
+  font-size: 20px;
+  background: lightgray;
+  margin: 0 0.5rem;
+  height: 3rem;
+  width: 3rem;
+}
